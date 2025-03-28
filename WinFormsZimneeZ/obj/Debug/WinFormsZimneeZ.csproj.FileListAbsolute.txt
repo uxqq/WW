@@ -1,0 +1,14 @@
+C:\Users\Uxq\Desktop\WinFormsZimneeZ-master\WinFormsZimneeZ\bin\Debug\WinFormsZimneeZ.exe.config
+C:\Users\Uxq\Desktop\WinFormsZimneeZ-master\WinFormsZimneeZ\bin\Debug\WinFormsZimneeZ.exe
+C:\Users\Uxq\Desktop\WinFormsZimneeZ-master\WinFormsZimneeZ\bin\Debug\WinFormsZimneeZ.pdb
+C:\Users\Uxq\Desktop\WinFormsZimneeZ-master\WinFormsZimneeZ\bin\Debug\MyLib.dll
+C:\Users\Uxq\Desktop\WinFormsZimneeZ-master\WinFormsZimneeZ\bin\Debug\MyLib.pdb
+C:\Users\Uxq\Desktop\WinFormsZimneeZ-master\WinFormsZimneeZ\obj\Debug\WinFormsZimneeZ.csproj.AssemblyReference.cache
+C:\Users\Uxq\Desktop\WinFormsZimneeZ-master\WinFormsZimneeZ\obj\Debug\WinFormsZimneeZ.MainForm.resources
+C:\Users\Uxq\Desktop\WinFormsZimneeZ-master\WinFormsZimneeZ\obj\Debug\WinFormsZimneeZ.Properties.Resources.resources
+C:\Users\Uxq\Desktop\WinFormsZimneeZ-master\WinFormsZimneeZ\obj\Debug\WinFormsZimneeZ.SeasonForm.resources
+C:\Users\Uxq\Desktop\WinFormsZimneeZ-master\WinFormsZimneeZ\obj\Debug\WinFormsZimneeZ.csproj.GenerateResource.cache
+C:\Users\Uxq\Desktop\WinFormsZimneeZ-master\WinFormsZimneeZ\obj\Debug\WinFormsZimneeZ.csproj.CoreCompileInputs.cache
+C:\Users\Uxq\Desktop\WinFormsZimneeZ-master\WinFormsZimneeZ\obj\Debug\WinForms.D73D7314.Up2Date
+C:\Users\Uxq\Desktop\WinFormsZimneeZ-master\WinFormsZimneeZ\obj\Debug\WinFormsZimneeZ.exe
+C:\Users\Uxq\Desktop\WinFormsZimneeZ-master\WinFormsZimneeZ\obj\Debug\WinFormsZimneeZ.pdb
